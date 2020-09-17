@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn {
+  background-color: black;
+  border: none;
+  color: white;
+  height: 10rem;
+  width: 20rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+}
